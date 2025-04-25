@@ -52,5 +52,4 @@ class Solution:
                 
         # 检查是否能够到达最后一个位置
         return farthest >= n - 1
-        
-        
+    
